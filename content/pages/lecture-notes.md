@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -28,7 +29,7 @@ DETAILS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-X-teams ([PDF]({{< baseurl >}}/resources/lec1))
+X-teams ({{% resource_link 11b3fb61-c715-4748-61ae-ed86bb9a5ddd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 In class I will go over the syllabus and course objectives. In addition, we will learn the model of teams that will form the basis of all the team work done during this course. Think about teams that you have worked in — what makes a team effective?
@@ -40,7 +41,7 @@ In class I will go over the syllabus and course objectives. In addition, we will
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The distributed leadership model and the leadership program ([PDF]({{< baseurl >}}/resources/lec2))
+The distributed leadership model and the leadership program ({{% resource_link 1d684f72-75fb-278d-e8d3-e875da56e3ad "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
