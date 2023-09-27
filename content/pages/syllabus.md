@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides an overview of the course and information
+  about specific course objectives, key ideas, course format, the text, and course
+  evaluation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
