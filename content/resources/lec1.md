@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on team performance and the X-Teams framework.
 file: /courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/11b3fb61c715474861aeed86bb9a5ddd_lec1.pdf
+file_size: 55554
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
