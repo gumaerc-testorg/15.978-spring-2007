@@ -43,7 +43,7 @@ X-teams
 The distributed leadership model and the leadership program
 {{< tdclose >}}
 {{< tdopen >}}
-Look at [Research in Management Education and Development](https://web.archive.org/web/20040604042756/http://management-education.net/) to get ideas about how the leadership program might fit into a new model of management education.
+Look at {{% resource_link "01b65130-453a-433c-8ff6-d6049c5a7fa6" "Research in Management Education and Development" %}} to get ideas about how the leadership program might fit into a new model of management education.
 {{< tdclose >}}
 
 {{< trclose >}}
